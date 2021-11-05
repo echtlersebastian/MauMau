@@ -120,7 +120,7 @@ namespace MauMauV2
                     WriteColor($"[{s.Name}] hat den [ERSTEN] Platz erreicht! Herzlichen Glückwunsch von der Regie.", ConsoleColor.Magenta);
 
                 }else if(rang == Rangliste.Count){
-                    WriteColor($"[{s.Name}] hat den [LETZTEN] Platz erreicht, der [IDIOT]! Herzlichen Glückwunsch von der Regie.", ConsoleColor.Magenta);
+                    WriteColor($"[{s.Name}] hat den [LETZTEN] Platz erreicht, der [IDIOT]!", ConsoleColor.Magenta);
 
                 }
                 else
