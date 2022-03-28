@@ -1,6 +1,6 @@
 # MauMau
 
-Kurze Info vorab: Das war ein Azubi-Projekt und ich wollte hiermit mal eine mögliche vorgeben, damit die Azubis ungefähr wissen wo es hingehen kann. Ich hatte Spaß beim Coden, wie man am Code glaube ich auch sieht. :P
+Kurze Info vorab: Das war ein Azubi-Projekt und ich wollte hiermit mal eine mögliche Lösung vorgeben, damit die Azubis ungefähr wissen wo es hingehen kann. Ich hatte Spaß beim Coden, wie man am Code glaube ich auch sieht. :P
 
 Hello. Hier habe ich ein absolut krasses vollatomatisiertes Mau Mau als Konsolenanwendung gebaut.
 
